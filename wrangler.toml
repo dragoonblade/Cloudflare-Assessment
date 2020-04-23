@@ -1,6 +1,6 @@
 name = "shubham-bhardwaj-cloudflare"
 type = "webpack"
-account_id = ""
+account_id = "292e8a54016626edc18892b4158fefa4"
 workers_dev = true
 route = ""
 zone_id = ""
