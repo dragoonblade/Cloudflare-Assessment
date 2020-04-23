@@ -26,7 +26,7 @@ class Handler {
    */
   export const rewriter = (response, index) => {
     const description = ["Visit my LinkedIn Profile", "Visit my Github Repository"]
-    const links = ["https://www.linkedin.com/in/sbhardwaj96/", "https://github.com/dragoonblade"]
+    const links = ["https://www.linkedin.com/in/sbhardwaj96/", "https://github.com/dragoonblade/Cloudflare-Assessment"]
   
     return new HTMLRewriter()
         .on('title', new Handler("Shubham Bhardwaj's Assessment"))
